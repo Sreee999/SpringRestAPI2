@@ -11,8 +11,8 @@ public class ProductController {
 	@GetMapping("/")
 	public String product() {
 		
-		System.out.println("This is ProductHome!111122223333");
+		System.out.println("This is ProductHome!111122223333444444");
 		
-		return "This is ProductHome!111122223333";
+		return "This is ProductHome!11112222333344444";
 	}
 }
